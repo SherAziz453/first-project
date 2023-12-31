@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon"herf="favicon."
+    <title>Document</title>
+</head>
+<body>
+<div><center>
+    
+<h1>this is heading</h1>
+<P>this is paragraph</P>
+<hr>
+<a href="http:www.gmail.com">gmail</a>
+<h2><br>second paragraph</h2></br>
+<P><i>ipsum dolor sit</i> consectetur.</P>
+<hr>
+<h3><br> third paragraph</h3></br>
+<P><mark> dolor sit amet consectetur</mark> elit.</P>
+<hr>
+ <h4>4th paragraph</h4>
+<p><br> ipsum dolor sit amet consectetur adipisicing.<br></p>
+<hr>
+<h5>5th paragraph</h5>
+<P><pre> ipsum
+         dolor 
+         sit 
+         amet.</P></pre>
+<hr>
+<h6><br>6th paragraph</h6></br>
+<p>Lorem ipsum dolor sit.</p>
+<hr>
+<!--image tag-->
+<img src="/New folder/Capture,jpj.JPG">
+<hr>
+<!--use of html list-->
+<!--ul is known as unorder list(bullet form)-->
+<h2>un order list</h1>
+<ul>
+    <li>coffee</li>
+    <li>tea</li>
+    <li>milk</li>
+</ul>
+<hr>
+<!--ol is know as order list(number form) -->
+<h3>order list</h2>
+<ol>
+    <li>jam</li>
+    <li>brown bread</li>
+    <li>eggs</li>
+</ol>
+<hr>
+<!--use of description list-->
+<dt>
+<!--definition term-->
+    <li>juice</li>
+    <li>tea</li>
+   <li>milk</li> 
+</dt>
+<hr>
+<dd type="a">
+    <li>juice</li>
+    <li>tea</li>
+    <li>milk</li>
+</dd>
+<!--example of nested list-->
+<hr>
+<h4>maggie recipe</h4>
+<ol type="A">
+    <li>boil half cup of water</li>
+    <li>break noddles in half</li>
+    <Li>add maggie masala</Li>
+    <li>add some veggies like</li>
+     <ul>
+        <li>peas</li>
+        <li>carrot</li.>
+        <li>onions</li>
+     </ul>
+</ol>
+
+</div></center>
+</body>
+</html>
+
